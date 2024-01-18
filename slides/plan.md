@@ -1,12 +1,30 @@
+
+## Who am I
+
+[Olivier Barais](http://olivier.barais.fr/) , Prof. Univ. Rennes 1, [IRISA/INRIA DiverSE]([http](http://www.diverse-team.fr/)
+
+
+- **Secure Software Supply Chain**
+- Web Engineering
+- Dynamic software architecture
+- Software language engineering
+- Cloud computing
+- Model-driven engineering
+
+
+<p class="current-visible"
+style="position:absolute; right:-200px; top:200px;">
+<img src="resources/me.png" width="70%"></p>
+
+---
+
 ##  Plan
 
 - Un peu d’histoire
 - JavaScript : le langage d’action du Web (mais pas que …)
 - Outillage
 - TypeScript
-- Utilisation de frameworks : Angular
-- Utilisation de frameworks : VueJS
-- Utilisation de frameworks : React
+- Taxonomie des failles de sécurité
 - Conclusion
 
 ----
